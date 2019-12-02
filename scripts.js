@@ -43,6 +43,7 @@ const snippetChangeReducer = (storiesByIdStateSlice = initialState.storiesById, 
 const storyChangeReducer = (currentStoryIdStateSlice = initialState.currentStoryId, action) => {
     switch (action.type) {
         case 'CHANGE_STORY':
+            console.log("NEW SELECTED STORY ID: ", action.newSelectedStoryId);
             return action.newSelectedStoryId;
         default:
             return currentStoryIdStateSlice;
@@ -119,14 +120,14 @@ const selectStory = (newStoryId) => {
     let action;
     if (store.getState().currentStoryId) {
         action = {
-            type: 'RESTART_SONG',
+            type: 'RESTART_STORY',
             currentStoryId: store.getState().currentStoryId
         }
-    } else {
-        action = {
-            type: 'CHANGE_STORY',
-            newSelectedStoryId: newStoryId
-        }
+        store.dispatch(action);
+    }
+    action = {
+        type: 'CHANGE_STORY',
+        newSelectedStoryId: newStoryId
     }
     store.dispatch(action);
 }
