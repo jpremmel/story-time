@@ -5,13 +5,17 @@
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/redux/3.7.2/redux.js"></script>
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/expect/1.20.2/expect.min.js"></script>
     <script type="text/javascript" src="scripts.js"></script>
-    <title>redux karaoke</title>
+    <title>Story Time</title>
   </head>
-  <body style='height:100vh' onClick='userClick()'>
+  <body style='height:100vh'>
     <h1>Story Time!</h1>
     <hr>
-    <div id="story-snippet">
-
-    </div>
+    <h2>Select a story:</h2>
+    <ul id="stories">
+    </ul>
+    <em>
+        <div id="story-snippet" onClick="userClick()">
+        </div>
+    </em>
   </body>
 </html>
