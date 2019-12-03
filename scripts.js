@@ -1,6 +1,7 @@
 const storyList = {
     1: ('NEWLINE Wynken, Blynken, and Nod one night NEWLINE Sailed off in a wooden shoe,— NEWLINESailed on a river of crystal light NEWLINE Into a sea of dew NEWLINE "Where are you going, and what do you wish?" NEWLINE The old moon asked the three, NEWLINE"We have come to fish for the herring-fish NEWLINE That live in this beautiful sea; NEWLINE Nets of silver and gold have we," NEWLINE Said Wynken, NEWLINE Blynken, NEWLINE And Nod. NEWLINE The old moon laughed and sang a song, NEWLINE As they rocked in the wooden shoe; NEWLINEAnd the wind that sped them all night long NEWLINE Ruffled the waves of dew; NEWLINEThe little stars were the herring-fish NEWLINE That lived in the beautiful sea NEWLINE"Now cast your nets wherever you wish,— NEWLINE Never afraid are we!" NEWLINE So cried the stars to the fishermen three, NEWLINE Wynken, NEWLINE Blynken, NEWLINE And Nod. NEWLINE All night long their nets they threw NEWLINE To the stars in the twinkling foam,— NEWLINEThen down from the skies came the wooden shoe, NEWLINE Bringing the fishermen home: NEWLINE\'Twas all so pretty a sail, it seemed NEWLINE As if it could not be; NEWLINEAnd some folk thought \'twas a dream they\'d dreamed NEWLINE Of sailing that beautiful sea; NEWLINE But I shall name you the fishermen three: NEWLINE Wynken, NEWLINE Blynken, NEWLINE And Nod. NEWLINE Wynken and Blynken are two little eyes, NEWLINE And Nod is a little head, NEWLINEAnd the wooden shoe that sailed the skies NEWLINE Is a wee one\'s trundle-bed; NEWLINESo shut your eyes while Mother sings NEWLINE Of wonderful sights that be, NEWLINEAnd you shall see the beautiful things NEWLINE As you rock in the misty sea NEWLINE Where the old shoe rocked the fishermen three: NEWLINE Wynken, NEWLINE Blynken, NEWLINE And Nod.').split('. '),
-    2: 'NEWLINE In the great green room NEWLINE There was a telephone NEWLINE And a red balloon NEWLINE And a picture of NEWLINE The cow jumping over the moon. NEWLINE And there were three little bears sitting on chairs NEWLINE And two little kittens NEWLINE And a pair of mittens NEWLINE And a little toy house NEWLINE And a young mouse. NEWLINE And a comb and a brush and a bowl full of mush NEWLINE And a quiet old lady who was whispering “hush”. NEWLINE Goodnight room NEWLINE Goodnight moon NEWLINE Goodnight cow jumping over the moon. NEWLINE Goodnight light NEWLINE And the red balloon. NEWLINE Goodnight bears NEWLINE Goodnight chairs. NEWLINE Goodnight kittens NEWLINE And goodnight mittens. NEWLINE Goodnight clocks NEWLINE And goodnight socks. NEWLINE Goodnight little house NEWLINE And goodnight mouse. NEWLINE Goodnight comb NEWLINE And goodnight brush NEWLINE Goodnight nobody NEWLINE Goodnight mush NEWLINE And goodnight to the old lady whispering “hush”. NEWLINE Goodnight stars NEWLINE Goodnight air NEWLINE Good night noises everywhere.'.split('. ')
+    2: 'NEWLINE In the great green room NEWLINE There was a telephone NEWLINE And a red balloon NEWLINE And a picture of NEWLINE The cow jumping over the moon. NEWLINE And there were three little bears sitting on chairs NEWLINE And two little kittens NEWLINE And a pair of mittens NEWLINE And a little toy house NEWLINE And a young mouse. NEWLINE And a comb and a brush and a bowl full of mush NEWLINE And a quiet old lady who was whispering “hush”. NEWLINE Goodnight room NEWLINE Goodnight moon NEWLINE Goodnight cow jumping over the moon. NEWLINE Goodnight light NEWLINE And the red balloon. NEWLINE Goodnight bears NEWLINE Goodnight chairs. NEWLINE Goodnight kittens NEWLINE And goodnight mittens. NEWLINE Goodnight clocks NEWLINE And goodnight socks. NEWLINE Goodnight little house NEWLINE And goodnight mouse. NEWLINE Goodnight comb NEWLINE And goodnight brush NEWLINE Goodnight nobody NEWLINE Goodnight mush NEWLINE And goodnight to the old lady whispering “hush”. NEWLINE Goodnight stars NEWLINE Goodnight air NEWLINE Good night noises everywhere.'.split('. '),
+    3: 'NEWLINE I was walking down the road and I saw a donkey NEWLINE HeehawNEWLINE NEWLINE He only had three legsNEWLINE He was a wonky donkey. NEWLINE NEWLINE I was walking down the road and I saw a donkey NEWLINE HeehawNEWLINE NEWLINE He only had three legs and one eyeNEWLINE He was a winky wonky donkey. NEWLINE NEWLINE I was walking down the road and I saw a donkey NEWLINE HeehawNEWLINE NEWLINE He only had three legsNEWLINE one eyeNEWLINE and he liked to listen to country music NEWLINE He was a honky tonky winky wonky donkey. NEWLINE NEWLINE I was walking down the road and I saw a donkey NEWLINE HeehawNEWLINE NEWLINE He only had three legsNEWLINE one eyeNEWLINE and he liked to listen to country music NEWLINE and he was quite tall and slimNEWLINE He was a lanky honky tonky winky wonky donkey. NEWLINE NEWLINE I was walking down the road and I saw a donkey NEWLINE HeehawNEWLINE NEWLINE He only had three legsNEWLINE one eyeNEWLINE and he liked to listen to country music NEWLINE and he was quite tall and slim NEWLINE and he smelt really really badNEWLINE He was a stinky dinky lanky honky tonky winky wonky donkey. NEWLINE NEWLINE I was walking down the road and I saw a donkey NEWLINE HeehawNEWLINE NEWLINE He only had three legsNEWLINE one eye NEWLINE and he liked to listen to country music NEWLINE and he was quite tall and slim NEWLINE and he smelt really bad NEWLINE and that morning he got up early and he hadn\'t had any coffeeNEWLINE He was a cranky stinky dinky lanky honky tonky winky wonky donkey. NEWLINE NEWLINE I was walking down the road and I saw a donkey NEWLINE HeehawNEWLINE NEWLINE He only had three legsNEWLINE one eye NEWLINE and he liked to listen to country music NEWLINE and he was quite tall and slim NEWLINE and he smelt really bad NEWLINE and that morning he got up early and he hadn\'t had any coffee NEWLINE and he was always getting up to mischiefNEWLINE He was a hanky panky cranky stinky dinky lanky honky tonky winky wonky donkey. NEWLINE NEWLINE I was walking down the road and I saw a donkey NEWLINE HeehawNEWLINE NEWLINE He only had three legsNEWLINE one eye NEWLINE and he liked to listen to country music NEWLINE and he was quite tall and slim NEWLINE and he smelt really bad NEWLINE and that morning he got up early and he hadn\'t had any coffee NEWLINE and he was always getting up to mischief NEWLINE but he was quite good lookingNEWLINE He was a hunky hanky panky cranky stinky dinky lanky honky tonky winky wonky donkey. NEWLINE NEWLINE I was walking down the road and I saw a donkey NEWLINE Heehaw'.split('. ')
 }
 
 const initialState = {
@@ -16,6 +17,12 @@ const initialState = {
             title: 'Goodnight Moon',
             storyId: 2,
             storyArray: storyList[2],
+            arrayPosition: 0
+        },
+        3: {
+            title: 'The Wonkey Donkey',
+            storyId: 3,
+            storyArray: storyList[3],
             arrayPosition: 0
         }
     }
@@ -177,6 +184,12 @@ expect(snippetChangeReducer(initialState.storiesById, { type: 'NEXT_SNIPPET', cu
         storyId: 2,
         storyArray: storyList[2],
         arrayPosition: 0
+    },
+    3: {
+        title: 'The Wonkey Donkey',
+        storyId: 3,
+        storyArray: storyList[3],
+        arrayPosition: 0
     }
 });
 
@@ -192,21 +205,18 @@ expect(snippetChangeReducer(initialState.storiedById, { type: 'RESTART_STORY', c
         storyId: 2,
         storyArray: storyList[2],
         arrayPosition: 0
+    },
+    3: {
+        title: 'The Wonkey Donkey',
+        storyId: 3,
+        storyArray: storyList[3],
+        arrayPosition: 0
     }
 });
 
 expect(rootReducer(initialState, { type: null })).toEqual(initialState);
 expect(store.getState().currentSongId).toEqual(storyChangeReducer(undefined, { type: null}));
 expect(store.getState().storiesById).toEqual(snippetChangeReducer(undefined, { type: null }));
-
-
-
-
-
-
-
-
-
 
 
 
